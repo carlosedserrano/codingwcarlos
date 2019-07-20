@@ -9,6 +9,9 @@ a{
 header{
     font-size: 96px;
     text-align: center;
+    color: blue
+    font-family: Helvetica;
+
 }
 p{
     font-size: 29.6px
