@@ -1,19 +1,7 @@
-body{
-    background-color: blue
-    font-family: Helvetica;
-    color: blue;
-}
-a{
-    color: red;
-}
-header{
-    font-size: 96px;
+.header{
+    font-size: 288px;
     text-align: center;
-    color: blue
+    color: blue;
     font-family: Helvetica;
 
-}
-p{
-    font-size: 29.6px
-    text-align: center;
 }
