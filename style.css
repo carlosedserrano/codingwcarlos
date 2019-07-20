@@ -1,0 +1,16 @@
+body{
+    background-color: yellow
+    font-family: Arial;
+    color: blue;
+}
+a{
+    color: red;
+}
+header{
+    font-size: 96px;
+    text-align: center;
+}
+p{
+    font-size: 29.6px
+    text-align: center;
+}
